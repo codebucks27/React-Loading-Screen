@@ -5,6 +5,12 @@ This repository contains code for Loading Screen component in reactjs.
 If you want to learn how to create it please follow below tutorial:
 https://youtu.be/Y7pL5wG5QOg
 
+Images:
+
+![Loading Screen Component](https://raw.githubusercontent.com/codebucks27/React-Loading-Screen/main/loader-1.png)
+
+![Loading Screen Component in React](https://raw.githubusercontent.com/codebucks27/React-Loading-Screen/main/loader3.png)     
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
