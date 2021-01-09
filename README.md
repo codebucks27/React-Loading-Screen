@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Create 3 different types of Loading Screen in React JS
+
+This repository contains code for Loading Screen component in reactjs.
+
+If you want to learn how to create it please follow below tutorial:
+https://youtu.be/Y7pL5wG5QOg
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
