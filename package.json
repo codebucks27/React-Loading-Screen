@@ -10,7 +10,7 @@
     "react-dom": "^17.0.1",
     "react-loading": "^2.0.3",
     "react-lottie": "^1.2.3",
-    "react-scripts": "4.0.1",
+    "react-scripts": "5.0.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
